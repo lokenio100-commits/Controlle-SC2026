@@ -1,0 +1,133 @@
+{
+  "actualizado": 1793230933563,
+  "cursos": [
+    {
+      "id": "excel",
+      "nome": "Excel",
+      "resumo": "Domine o Excel para o trabalho, a análise de dados, os relatórios e a automatização de tarefas.",
+      "categoria": "Dados",
+      "nivel": "Do básico ao avançado",
+      "sigla": "X",
+      "cor": "linear-gradient(135deg,#0f6b3a,#1d9d57)",
+      "imagem": "",
+      "preco": 80000,
+      "promo": 60000,
+      "promoFim": "",
+      "semanas": 8,
+      "horas": 48,
+      "horario": "Seg · Qua · Sex, 2 h",
+      "visivel": true,
+      "mods": [
+        {
+          "t": "Módulo 1 · Excel Básico",
+          "s": "Fundamentos e uso eficiente",
+          "itens": [
+            "Interface e funcionalidades",
+            "Fórmulas e funções",
+            "Formatação de dados",
+            "Tabelas e filtros",
+            "Gráficos básicos",
+            "Validação de dados",
+            "Dicas de produtividade"
+          ]
+        },
+        {
+          "t": "Módulo 2 · Excel Intermédio",
+          "s": "Análise e tratamento de dados",
+          "itens": [
+            "Funções avançadas",
+            "Tabelas dinâmicas",
+            "Segmentação (slicers)",
+            "Formatação condicional",
+            "Limpeza de dados",
+            "Consolidação de dados",
+            "Dashboards simples",
+            "Automatização nativa"
+          ]
+        },
+        {
+          "t": "Módulo 3 · Excel Avançado",
+          "s": "Modelação e automatização",
+          "itens": [
+            "Power Query",
+            "Power Pivot e modelação",
+            "ÍNDICE, CORRESP, PROCX",
+            "Dashboards profissionais",
+            "Macros (VBA)",
+            "Relatórios interativos",
+            "Projetos reais",
+            "Casos profissionais"
+          ]
+        }
+      ],
+      "corBase": "#10264a",
+      "ilustracao": "auto",
+      "etiqueta": ""
+    },
+    {
+      "id": "pbi",
+      "nome": "Power BI",
+      "resumo": "Transforme dados em dashboards interativos, indicadores e relatórios profissionais que apoiam decisões.",
+      "categoria": "Dados",
+      "nivel": "Do básico ao avançado",
+      "sigla": "BI",
+      "cor": "linear-gradient(135deg,#1b2433,#d9a520)",
+      "imagem": "",
+      "preco": 80000,
+      "promo": 60000,
+      "promoFim": "",
+      "semanas": 8,
+      "horas": 48,
+      "horario": "Seg · Qua · Sex, 2 h",
+      "visivel": true,
+      "mods": [
+        {
+          "t": "Módulo 1 · Power BI Básico",
+          "s": "Fundamentos e primeiros relatórios",
+          "itens": [
+            "Power BI Desktop",
+            "Importar Excel e CSV",
+            "Primeiros relatórios",
+            "Tabelas e gráficos",
+            "Filtros",
+            "Noções de Power Query"
+          ]
+        },
+        {
+          "t": "Módulo 2 · Power BI Intermédio",
+          "s": "Tratamento e modelação de dados",
+          "itens": [
+            "Limpeza de dados",
+            "Relações entre tabelas",
+            "Modelação de dados",
+            "Medidas e colunas DAX",
+            "Segmentações e filtros",
+            "Dashboards interativos"
+          ]
+        },
+        {
+          "t": "Módulo 3 · Power BI Avançado",
+          "s": "Modelação, DAX e projetos reais",
+          "itens": [
+            "DAX avançado e KPIs",
+            "Modelação otimizada",
+            "Power Query e ETL",
+            "Design de dashboards",
+            "Publicar e partilhar",
+            "Projeto final real"
+          ]
+        }
+      ],
+      "corBase": "#10264a",
+      "ilustracao": "auto",
+      "etiqueta": ""
+    }
+  ],
+  "pacote": {
+    "nome": "Excel + Power BI",
+    "preco": null,
+    "promo": null,
+    "promoFim": "",
+    "visivel": true
+  }
+}
