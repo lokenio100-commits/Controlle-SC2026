@@ -1,5 +1,5 @@
 {
-  "actualizado": 1793260284990,
+  "actualizado": 1793260390514,
   "cursos": [
     {
       "id": "excel",
@@ -11,7 +11,7 @@
       "cor": "linear-gradient(135deg,#0f6b3a,#1d9d57)",
       "imagem": "",
       "preco": 80000,
-      "promo": 70000,
+      "promo": 60000,
       "promoFim": "",
       "semanas": 8,
       "horas": 48,
@@ -74,9 +74,9 @@
       "cor": "linear-gradient(135deg,#1b2433,#d9a520)",
       "imagem": "",
       "preco": 80000,
-      "promo": 70000,
+      "promo": 60000,
       "promoFim": "",
-      "semanas": 8,
+      "semanas": 6,
       "horas": 48,
       "horario": "Seg · Qua · Sex, 2 h",
       "visivel": true,
